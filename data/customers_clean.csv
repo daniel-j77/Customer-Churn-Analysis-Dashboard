@@ -1,0 +1,16 @@
+CustomerID,Age,Plan,MonthlyCharge,Tenure,Churn
+101,25,Basic,500.0,6,Yes
+102,30,Premium,1200.0,24,No
+103,40,Basic,600.0,8,Yes
+104,28,Premium,1300.0,36,No
+105,35,Basic,700.0,12,Yes
+106,45,Premium,1500.0,48,No
+107,50,Basic,700.0,10,Yes
+108,29,Premium,1250.0,30,No
+109,38,Basic,650.0,15,Yes
+110,42,Premium,1400.0,40,No
+111,25,Basic,500.0,6,Yes
+112,31,Basic,550.0,9,Yes
+113,33,Premium,1350.0,28,No
+114,27,Basic,580.0,7,Yes
+115,39,Premium,1450.0,42,No
